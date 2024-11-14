@@ -1,2 +1,3 @@
-# Credit-Card-Fraud-Detection
-The repository contains a project regarding detection of credit card frauds using ML and DS
+# credit-card-fraud-detection
+
+Link for the dataset:https://www.kaggle.com/mlg-ulb/creditcardfraud
